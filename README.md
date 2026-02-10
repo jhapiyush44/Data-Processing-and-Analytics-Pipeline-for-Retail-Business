@@ -166,14 +166,10 @@ Most importantly: proved that analytics works even for small offline businesses.
 
 ```
 data/
-  ├── product_pricing.xlsx
-  ├── daily_sales_log.xlsx
-  ├── expenses.xlsx
+  ├── Food_Business_Data_Collection.xlsx
 
 notebooks/
-  ├── cleaning.ipynb
-  ├── analysis.ipynb
-  ├── visualization.ipynb
+  ├── BDM_Project.ipynb
 
 reports/
   ├── proposal.pdf
